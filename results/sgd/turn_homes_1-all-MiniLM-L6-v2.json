@@ -1,0 +1,50 @@
+{
+  "c": {
+    "adjusted_rand_score_mean": 0.2546102211312799,
+    "adjusted_rand_score_std": 0.02238089499505467,
+    "adjusted_mutual_info_mean": 0.5485445233902375,
+    "adjusted_mutual_info_std": 0.017227143646465347,
+    "fowlkes_mallows_score_mean": 0.31693381906859713,
+    "fowlkes_mallows_score_std": 0.018378013448333914
+  },
+  "pc": {
+    "adjusted_rand_score_mean": 0.36530675434909615,
+    "adjusted_rand_score_std": 0.02736930459483372,
+    "adjusted_mutual_info_mean": 0.6705275565381946,
+    "adjusted_mutual_info_std": 0.016888150875154474,
+    "fowlkes_mallows_score_mean": 0.40786955677893805,
+    "fowlkes_mallows_score_std": 0.03305617105513988
+  },
+  "pcn": {
+    "adjusted_rand_score_mean": 0.3712755057649367,
+    "adjusted_rand_score_std": 0.011545489977355192,
+    "adjusted_mutual_info_mean": 0.6573204558019466,
+    "adjusted_mutual_info_std": 0.002340425409492124,
+    "fowlkes_mallows_score_mean": 0.4296488572745985,
+    "fowlkes_mallows_score_std": 0.012027754456563507
+  },
+  "int": {
+    "adjusted_rand_score_mean": 0.33874601034984336,
+    "adjusted_rand_score_std": 0.014631606062949578,
+    "adjusted_mutual_info_mean": 0.630781818702311,
+    "adjusted_mutual_info_std": 0.007670214702871776,
+    "fowlkes_mallows_score_mean": 0.3937901425186697,
+    "fowlkes_mallows_score_std": 0.0165958772788908
+  },
+  "ext": {
+    "adjusted_rand_score_mean": 0.4100778948666331,
+    "adjusted_rand_score_std": 0.018366393312615536,
+    "adjusted_mutual_info_mean": 0.6569062870180279,
+    "adjusted_mutual_info_std": 0.0072298468331307795,
+    "fowlkes_mallows_score_mean": 0.4698694090046824,
+    "fowlkes_mallows_score_std": 0.017754706651512964
+  },
+  "int_ext": {
+    "adjusted_rand_score_mean": 0.4175855111399562,
+    "adjusted_rand_score_std": 0.020739576289866574,
+    "adjusted_mutual_info_mean": 0.6774919894134745,
+    "adjusted_mutual_info_std": 0.012497639034677908,
+    "fowlkes_mallows_score_mean": 0.4718816981526344,
+    "fowlkes_mallows_score_std": 0.018634093856496663
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "c": {
+    "adjusted_mutual_info_mean": 0.8527011424182825,
+    "adjusted_mutual_info_std": 0.021535641689171,
+    "adjusted_rand_score_mean": 0.7148002489911565,
+    "adjusted_rand_score_std": 0.04597635645141558,
+    "fowlkes_mallows_score_mean": 0.7558483923152527,
+    "fowlkes_mallows_score_std": 0.038006532997816006,
+    "time_user_mean": 3.659898122151693,
+    "time_system_mean": 3.4890453020731607,
+    "total_time_mean": 7.1489434242248535
+  },
+  "pc": {
+    "adjusted_mutual_info_mean": 0.9018223194727005,
+    "adjusted_mutual_info_std": 0.0007559993359987691,
+    "adjusted_rand_score_mean": 0.8250853063619937,
+    "adjusted_rand_score_std": 0.0020191625720345358,
+    "fowlkes_mallows_score_mean": 0.8490938343564585,
+    "fowlkes_mallows_score_std": 0.0017392160782750885,
+    "time_user_mean": 3.78765598932902,
+    "time_system_mean": 2.5090224742889404,
+    "total_time_mean": 6.296678463617961
+  },
+  "pcn": {
+    "adjusted_mutual_info_mean": 0.909727914009769,
+    "adjusted_mutual_info_std": 0.010642923273031436,
+    "adjusted_rand_score_mean": 0.8393585563545335,
+    "adjusted_rand_score_std": 0.020919933365626787,
+    "fowlkes_mallows_score_mean": 0.8615730784733667,
+    "fowlkes_mallows_score_std": 0.018287438354976128,
+    "time_user_mean": 4.116049289703369,
+    "time_system_mean": 3.3771628538767495,
+    "total_time_mean": 7.493212143580119
+  },
+  "int": {
+    "adjusted_mutual_info_mean": 0.9980126535177045,
+    "adjusted_mutual_info_std": 0.0,
+    "adjusted_rand_score_mean": 0.9984934410738684,
+    "adjusted_rand_score_std": 0.0,
+    "fowlkes_mallows_score_mean": 0.9986937183570513,
+    "fowlkes_mallows_score_std": 0.0,
+    "time_user_mean": 1.99148424466451,
+    "time_system_mean": 1.4363750616709392,
+    "total_time_mean": 3.427859306335449
+  },
+  "ext": {
+    "adjusted_mutual_info_mean": 0.999819600212279,
+    "adjusted_mutual_info_std": 6.409875621278546e-17,
+    "adjusted_rand_score_mean": 0.9998904068345288,
+    "adjusted_rand_score_std": 1.1102230246251565e-16,
+    "fowlkes_mallows_score_mean": 0.9999065851588321,
+    "fowlkes_mallows_score_std": 1.1102230246251565e-16,
+    "time_user_mean": 2.760549704233805,
+    "time_system_mean": 3.695113261540731,
+    "total_time_mean": 6.455662965774536
+  },
+  "int_ext": {
+    "adjusted_mutual_info_mean": 0.999819600212279,
+    "adjusted_mutual_info_std": 0.0,
+    "adjusted_rand_score_mean": 0.9998904068345288,
+    "adjusted_rand_score_std": 1.1102230246251565e-16,
+    "fowlkes_mallows_score_mean": 0.9999065851588321,
+    "fowlkes_mallows_score_std": 1.1102230246251565e-16,
+    "time_user_mean": 3.685488700866699,
+    "time_system_mean": 3.695113261540731,
+    "total_time_mean": 7.38060196240743
+  }
+}

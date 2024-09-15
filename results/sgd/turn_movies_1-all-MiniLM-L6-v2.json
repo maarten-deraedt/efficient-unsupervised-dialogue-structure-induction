@@ -1,0 +1,50 @@
+{
+  "c": {
+    "adjusted_rand_score_mean": 0.20047246406955255,
+    "adjusted_rand_score_std": 0.013435234645639862,
+    "adjusted_mutual_info_mean": 0.5095887541003155,
+    "adjusted_mutual_info_std": 0.0030735594669381574,
+    "fowlkes_mallows_score_mean": 0.27304089076018656,
+    "fowlkes_mallows_score_std": 0.01955736712319563
+  },
+  "pc": {
+    "adjusted_rand_score_mean": 0.27038931715211284,
+    "adjusted_rand_score_std": 0.006528779701806346,
+    "adjusted_mutual_info_mean": 0.5790996482942318,
+    "adjusted_mutual_info_std": 0.0076198168922060865,
+    "fowlkes_mallows_score_mean": 0.33602603521723595,
+    "fowlkes_mallows_score_std": 0.006516254874245255
+  },
+  "pcn": {
+    "adjusted_rand_score_mean": 0.32978719109104254,
+    "adjusted_rand_score_std": 0.009145306214038475,
+    "adjusted_mutual_info_mean": 0.6159558720055021,
+    "adjusted_mutual_info_std": 0.008728188772406418,
+    "fowlkes_mallows_score_mean": 0.3854177597884976,
+    "fowlkes_mallows_score_std": 0.006730972356505079
+  },
+  "int": {
+    "adjusted_rand_score_mean": 0.3750307374556079,
+    "adjusted_rand_score_std": 0.02368567399063211,
+    "adjusted_mutual_info_mean": 0.6129916069997209,
+    "adjusted_mutual_info_std": 0.009417951446102897,
+    "fowlkes_mallows_score_mean": 0.4044284326598981,
+    "fowlkes_mallows_score_std": 0.01971287244589156
+  },
+  "ext": {
+    "adjusted_rand_score_mean": 0.38800263273480123,
+    "adjusted_rand_score_std": 0.021512757078493143,
+    "adjusted_mutual_info_mean": 0.6304027895717662,
+    "adjusted_mutual_info_std": 0.0012086382024863215,
+    "fowlkes_mallows_score_mean": 0.4351834915453523,
+    "fowlkes_mallows_score_std": 0.021684363989238013
+  },
+  "int_ext": {
+    "adjusted_rand_score_mean": 0.4172395004793641,
+    "adjusted_rand_score_std": 0.042056099546170914,
+    "adjusted_mutual_info_mean": 0.645857785310008,
+    "adjusted_mutual_info_std": 0.010809626662094705,
+    "fowlkes_mallows_score_mean": 0.4566578604761186,
+    "fowlkes_mallows_score_std": 0.033909314320069626
+  }
+}

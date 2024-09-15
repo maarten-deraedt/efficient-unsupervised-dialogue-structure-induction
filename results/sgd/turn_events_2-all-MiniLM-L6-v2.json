@@ -1,0 +1,50 @@
+{
+  "c": {
+    "adjusted_rand_score_mean": 0.12330317952640024,
+    "adjusted_rand_score_std": 0.008329777789396739,
+    "adjusted_mutual_info_mean": 0.45306805409433526,
+    "adjusted_mutual_info_std": 0.002692471170244999,
+    "fowlkes_mallows_score_mean": 0.21384036307754803,
+    "fowlkes_mallows_score_std": 0.011411086939832291
+  },
+  "pc": {
+    "adjusted_rand_score_mean": 0.20409241496075248,
+    "adjusted_rand_score_std": 0.011808506160297536,
+    "adjusted_mutual_info_mean": 0.5764918555797044,
+    "adjusted_mutual_info_std": 0.007749684289052617,
+    "fowlkes_mallows_score_mean": 0.28415332221853923,
+    "fowlkes_mallows_score_std": 0.009268481358815153
+  },
+  "pcn": {
+    "adjusted_rand_score_mean": 0.21679716854276318,
+    "adjusted_rand_score_std": 0.0055765164009365506,
+    "adjusted_mutual_info_mean": 0.5786828188899759,
+    "adjusted_mutual_info_std": 0.003061769027713161,
+    "fowlkes_mallows_score_mean": 0.2994684236331341,
+    "fowlkes_mallows_score_std": 0.007319598625361308
+  },
+  "int": {
+    "adjusted_rand_score_mean": 0.27370596437132716,
+    "adjusted_rand_score_std": 0.005909151765031736,
+    "adjusted_mutual_info_mean": 0.6070883688731512,
+    "adjusted_mutual_info_std": 0.00297392840155773,
+    "fowlkes_mallows_score_mean": 0.36174842126398293,
+    "fowlkes_mallows_score_std": 0.004049719501843395
+  },
+  "ext": {
+    "adjusted_rand_score_mean": 0.20209541762819452,
+    "adjusted_rand_score_std": 0.01420772902876258,
+    "adjusted_mutual_info_mean": 0.5422714043428992,
+    "adjusted_mutual_info_std": 0.004016472852627335,
+    "fowlkes_mallows_score_mean": 0.3039839715270662,
+    "fowlkes_mallows_score_std": 0.014219654741288851
+  },
+  "int_ext": {
+    "adjusted_rand_score_mean": 0.247930902566783,
+    "adjusted_rand_score_std": 0.014308470426831784,
+    "adjusted_mutual_info_mean": 0.6023228144586615,
+    "adjusted_mutual_info_std": 0.0068290468873148874,
+    "fowlkes_mallows_score_mean": 0.34408137427753455,
+    "fowlkes_mallows_score_std": 0.014924561288126754
+  }
+}
